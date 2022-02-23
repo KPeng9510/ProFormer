@@ -15,8 +15,7 @@ This repository contains the code for ProFormer based on the code from SL-DML
 The precalculated representations can be downloaded from the following links:
 
 * [NTU RGB+D 120 One-Shot](https://agas.uni-koblenz.de/datasets/sl-dml/ntu_120_one_shot.zip)
-* [UTD-MHAD](https://agas.uni-koblenz.de/datasets/sl-dml/utdmhad_one_shot.zip)
-* [Simitate](https://agas.uni-koblenz.de/datasets/sl-dml/simitate_one_shot.zip) 
+
 
 ## Quick Start
 
