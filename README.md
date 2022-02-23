@@ -1,6 +1,6 @@
 # ProFormer: Learning Data-efficient Representations of Body Movement with Prototype-based Feature Augmentation and Visual Transformers
 
-![SL-DML Overview](images/example.png)
+![ProFormer Overview](images/teaser.pdf)
 
 This repository contains the code for ProFormer based on the code from SL-DML
 
