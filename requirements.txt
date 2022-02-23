@@ -1,0 +1,5 @@
+record-keeper
+umap-learn
+hydra-core
+tensorboard
+faiss-gpu

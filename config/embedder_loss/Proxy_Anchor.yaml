@@ -1,0 +1,6 @@
+embedder_loss:
+  name: "Proxy_Anchor"
+  margin: 0.2
+  alpha: 0.1
+  nu: 1.0
+  beta: 10
